@@ -1,0 +1,13 @@
+@Frequencies
+A=0.2
+G=0.3
+C=0.3
+T=0.2
+@Matrix
+	A	C	G	T
+A	0	A*a1	A	A*a1
+C	C*a1	0	C*a1	C
+G	G	G*a1	0	G*a1
+T	T*a1	T	T*a1	0
+@Multipliers
+a1=0.5

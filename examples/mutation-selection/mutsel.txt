@@ -1,0 +1,2 @@
+Matrix	Tree	Number_Sites	Gamma_Dist	Alpha	Invariant	Gamma_Info	Mappings
+MediumPop.txt,SmallPop.txt,LargePop.txt	tree.tre	100	4	1.0	0	0	0

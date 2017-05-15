@@ -1,0 +1,12 @@
+@Frequencies
+1=0.4
+2=0.3
+3=0.3
+@Matrix
+	1	2	3
+1	0	2*a1	3*a2
+2	1*a1	0	3
+3	1*a2	2	0
+@Multipliers
+a1=0.4
+a2=2.1

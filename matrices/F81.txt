@@ -1,0 +1,12 @@
+@Frequencies
+A=0.25
+C=0.25
+G=0.25
+T=0.25
+@Matrix
+	A	C	G	T
+A	0	C	G	T
+C	A	0	G	T
+G	A	C	0	T
+T	A	C	G	0
+@Multipliers

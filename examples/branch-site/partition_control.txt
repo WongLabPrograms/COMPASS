@@ -1,0 +1,9 @@
+Matrix	Tree	Number_Sites	Gamma_Dist	Alpha	Invariant	Gamma_Info	Mappings
+HKY85.txt,REV.txt	example-branch.tre	100	4	0.5	0	0	0
+REV.txt,HKY85.txt	example-branch.tre	53	0	1.5	0	0	0	
+
+
+
+
+
+
